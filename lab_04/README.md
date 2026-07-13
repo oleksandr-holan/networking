@@ -62,7 +62,7 @@ A switch learns MAC addresses and builds the MAC address table, as network devic
 
 #### Step 1: Record network device MAC addresses
 
-a. Open a command prompt on PC-A and PC-B and type ipconfig /all.
+a. Open a command prompt on PC-A and PC-B and type `ipconfig /all`.
 
 **Question:**
 What are the Ethernet adapter physical addresses?
